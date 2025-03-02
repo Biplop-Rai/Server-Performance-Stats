@@ -29,3 +29,4 @@ This script collects and displays basic server performance statistics.
 git clone https://github.com/Biplop-Rai/Server-Performance-Stats.git
 cd Server-Performance-Stats
 
+https://roadmap.sh/projects/server-stats

@@ -26,6 +26,6 @@ This script collects and displays basic server performance statistics.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/Server-Performance-Stats.git
+git clone https://github.com/Biplop-Rai/Server-Performance-Stats.git
 cd Server-Performance-Stats
 
